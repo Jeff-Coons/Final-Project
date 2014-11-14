@@ -571,7 +571,7 @@ footer {
 
 .job-container {
   @include outer-container;
-  margin-bottom: rem(200);
+  margin-bottom: rem(100);
 
   h1 {
     font-size: rem(24);
@@ -699,7 +699,6 @@ footer {
 .posted-job-container {
   @include outer-container;
   margin-bottom: rem(100);
-  padding-bottom: 380px;
 
   h1 {
     font-size: rem(24);
